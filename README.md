@@ -6,7 +6,7 @@ Each assignment has its own folder, and the link to that folder is listed below 
 ---
 
 ## ASSIGNMENT 1  
-**Folder Link:**
+**Folder Link:** *(https://github.com/ProgAD/Tutedude-Python/tree/main/Assignment-1)*
 
 ### Task 1 – Basic Mathematical Operations  
 The program:  
